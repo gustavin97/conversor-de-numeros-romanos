@@ -1,7 +1,6 @@
 # desafio dev 
 ## conversor de números romanos 
 
-##HTML
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -35,7 +34,7 @@
 </body>
 </html>
 
-## CSS
+
 
 body {
   font-family: Arial, sans-serif;
@@ -91,7 +90,7 @@ button:hover {
 }
 
   
-##JAVASCRIPT
+
 
 function converter() {
   const romano = document.getElementById('numero-romano').value.toUpperCase();
